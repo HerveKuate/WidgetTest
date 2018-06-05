@@ -14,3 +14,7 @@ L’administrateur	doit	pouvoir	modiﬁer	les	choses	suivantes	:
 - titre	du	widget,		
 - nombre	d’arScles	aﬃchés,		
 - ordre	d’aﬃchage	(chronologique	ascendant	ou	descendant,	…).	
+
+Admin authentification
+login: saikyouzero
+password : 2MFuPguz*
