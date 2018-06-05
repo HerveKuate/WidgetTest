@@ -1,5 +1,7 @@
 # WidgetTest
 
+https://pau.jtq.mybluehost.me/WidgetTest
+
 Un Wordpress site web concu pour tester les widgets personnalisé. 2 Widgets sont concu ici, 
 
 -un	widget	Wordpress	permettant	d’aﬃcher	une	liste	d’articles	de	la même	catégorie	que	l’article	courant	(article	de	la	page).		
