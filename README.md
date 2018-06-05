@@ -15,6 +15,7 @@ L’administrateur	doit	pouvoir	modiﬁer	les	choses	suivantes	:
 - nombre	d’arScles	aﬃchés,		
 - ordre	d’aﬃchage	(chronologique	ascendant	ou	descendant,	…).	
 
+
 Admin authentification
 login: saikyouzero
 password : 2MFuPguz*
