@@ -4,7 +4,7 @@ Un Wordpress site web concu pour tester les widgets personnalisé. 2 Widgets son
 
 -un	widget	Wordpress	permettant	d’aﬃcher	une	liste	d’articles	de	la même	catégorie	que	l’article	courant	(article	de	la	page).		
 L’administrateur	doit	pouvoir	modiﬁer	les	choses	suivantes	:		
-- Stre	du	widget,		
+- Titre	du	widget,		
 - nombre	d’arScles	aﬃchés,		
 - ordre	d’aﬃchage	(chronologique	ascendant	ou	descendant,	…).	
 
